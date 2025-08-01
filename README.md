@@ -41,7 +41,7 @@ These choices balance stability and accuracy for advection-diffusion dynamics.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/mini-room-simulation.git
+   git clone https://github.com/at-chaity/mini-toy-simulation-of-a-room-.git
 2. Open 2D_box_simulation.ipynb in Jupyter Notebook.
 
 - Run the cells step-by-step to:
